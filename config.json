@@ -1,0 +1,13 @@
+{
+	"DataBase": {
+		"host": "127.0.0.1",
+		"port": "5432",
+		"user": "postgres",
+		"dbName": "rss",
+		"password": "pass"
+		},
+	"logSetting": {
+		"logLevel": "debug"
+	}
+
+}
