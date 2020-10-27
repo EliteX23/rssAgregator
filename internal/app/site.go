@@ -92,6 +92,7 @@ type SiteService interface {
 	Update(credit *SiteDTO) (*SiteDTO, error)
 	Process(id int64) (bool, error)
 	Remove(id int64) error
+	//InitTaskFromDB - при старте приложения, восстановить все задания из БД
 	InitTaskFromDB() (bool, error)
 }
 
