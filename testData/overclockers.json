@@ -1,0 +1,12 @@
+{
+  "url":"https://overclockers.ru/rss/news.rss",
+  "cron": "*/6 * * * *",
+  "rules":
+	{
+	   "articleRootName":"item",
+	   "title":"title",
+	   "url":"link",
+	   "description":"description",
+	   "pubDate":"pubDate"
+	}
+}

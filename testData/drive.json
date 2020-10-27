@@ -1,0 +1,12 @@
+{
+  "url":"https://www.drive.ru/rss",
+  "cron": "*/4 * * * *",
+  "rules":
+	{
+	   "articleRootName":"item",
+	   "title":"title",
+	   "url":"link",
+	   "description":"description",
+	   "pubDate":"pubDate"
+	}
+}
