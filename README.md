@@ -11,7 +11,7 @@
 Так же для работы понадобится config.json:  
 ```json
 {
-  "DataBase": {
+  "dataBase": {
 	"host": "127.0.0.1",
 	"port": "5432",
 	"user": "postgres",
